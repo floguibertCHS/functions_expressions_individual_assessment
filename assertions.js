@@ -49,3 +49,4 @@ console.assert(greet("George") === "Hello, George!");
 
 //NO ASSERTIONS FOR NUMBER 9
 */
+console.log(madLib(quick, fox, fence, quickly));
